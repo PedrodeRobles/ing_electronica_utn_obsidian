@@ -7,7 +7,7 @@
 - [ ] Empezar a hacer los ejercicios
 
 ### Algebra y geometría analitica
-- [ ] Leer apunte teorico Unidad 1
+- [x] Leer apunte teorico Unidad 1
 - [ ] Empezar los ejercicios
 
 ### Informatica 1
